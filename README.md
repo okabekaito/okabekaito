@@ -4,4 +4,4 @@
 
 #I've been learning React/TypeScript and Ruby on Rails Devlopment.
 
-![kaito's github stats](https://github-readme-stats.vercel.app/api?username=okabekaito&hide=issues&hide=Start Earned&hide=PRs&hide)
+![kaito's github stats](https://github-readme-stats.vercel.app/api?username=okabekaito&hide=issues&hide=start earned&hide=prs&hide)
