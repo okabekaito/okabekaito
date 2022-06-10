@@ -1,7 +1,7 @@
-Hi 👋 My name is Kaito Okabe.
+Hi 👋 My name is Kaito Okabe
 ===============================
 
-I'm a Junior Web Developer.
+I'm a Junior Web Developer
 ---------------------
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okabekaito&layout=compact&show_icons=true&theme=onedark" />
