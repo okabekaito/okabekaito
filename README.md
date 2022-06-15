@@ -1,4 +1,4 @@
-Hi！！ 👋 My name is Kaito Okabe
+Hi 👋 My name is Kaito Okabe
 ===============================
 
 I'm a Junior Web Developer
